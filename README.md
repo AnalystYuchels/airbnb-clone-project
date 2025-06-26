@@ -1,8 +1,8 @@
-#Project Overview:
+# Project Overview:
 
 This project is a full-stack clone of the popular accommodation booking platform Airbnb. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-#Project Goals:
+# Project Goals:
 
 - Learn to implement responsive UI/UX designs
 - Understand how to structure a complex web application
@@ -10,14 +10,14 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Develop skills in component-based frontend architecture
 - Learn best practices for web application development.
 
-#Tech Stack:
+# Tech Stack:
 
 - Frontend: HTML, CSS, JavaScript (React or similar framework)
 - Version Control: Git and GitHub
 - Design Tools: Figma for UI/UX design
 
 
-#UI/UX Design Planning
+# UI/UX Design Planning
 
 <ins>**Design Goals:**</ins>
 
@@ -59,12 +59,12 @@ This project is a full-stack clone of the popular accommodation booking platform
 - **Secondary Text:** Circular, Book (400), 14px
 
 
-#Importance of a User-Friendly Design in a Booking System:
+# Importance of a User-Friendly Design in a Booking System:
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Straightforward navigation, intuitive interfaces, and responsive design are critical for success.
 
 
-#Importance of Identifying Design Properties of a Mockup Design:
+# Importance of Identifying Design Properties of a Mockup Design:
 
 - <ins>**Clarifies design intent:**</ins> Ensures all stakeholders understand the visual and functional goals.
   
@@ -79,7 +79,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - <ins>**Facilitates testing and validation:**</ins> Useful for user testing, A/B testing, and accessibility checks.
 
 
-#Project Roles and Responsibilities:
+# Project Roles and Responsibilities:
 
 - **Project Manager:**	Oversees timeline, coordinates team, manages deliverables
   
@@ -98,7 +98,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - **Scrum Master:**	Facilitates agile processes, removes blockers, organizes meetings
 
 
-#UI Component Patterns:
+# UI Component Patterns:
 
 1. <ins>**Navbar:**</ins>
 
