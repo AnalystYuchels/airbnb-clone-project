@@ -12,16 +12,36 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 # Tech Stack:
 
-- Frontend: HTML, CSS, JavaScript (React or similar framework)
-- Version Control: Git and GitHub
-- Design Tools: Figma for UI/UX design
+### <ins>Frontend</ins>
+
+- **Next.js:** React framework for production
+- **React:** Component-based UI library
+- **TypeScript:** Type-safe JavaScript
+- **Tailwind CSS:** Utility-first CSS framework
+- **Zustand:** State management
+
+
+### <ins>Backend</ins>
+
+- **Node.js:** Runtime environment
+- **Express.js:** Web application framework
+- **MongoDB:** NoSQL database
+- **JWT:** Authentication
+
+
+### <ins>Tools & Deployment</ins>
+
+- **Git:** Version control
+- **GitHub:** Code repository
+- **Vercel:** Frontend deployment
+- **AWS:** Cloud services
 
 
 # UI/UX Design Planning
 
 <ins>**Design Goals:**</ins>
 
-- Create intuitive booking flow
+- Create an intuitive booking flow
 - Maintain visual consistency
 - Ensure fast loading times
 - Prioritize mobile responsiveness
@@ -35,11 +55,11 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 <ins>**Primary Pages:**</ins>
 
-- <ins>**Property Listing View:**</ins>	Grid display of available properties with filters
-
-- <ins>**Listing Detailed View:**</ins> Complete property details with images and booking form
-
-- <ins>**Simple Checkout View:**</ins>	Streamlined payment and booking confirmation
+| Page | Description |
+| ---- | ---- |
+| Property Listing View | Grid display of available properties with filters|
+| Listing Detailed View | Complete property details with images and booking form |
+| Simple Checkout View | Streamlined payment and booking confirmation |
 
 
 <ins>**Color Styles:**</ins>
@@ -81,21 +101,16 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 # Project Roles and Responsibilities:
 
-- **Project Manager:**	Oversees timeline, coordinates team, manages deliverables
-  
-- **Frontend Developers:**	Implements UI components, ensures responsive design
-  
-- **Backend Developers:**	Builds APIs, manages the database, implements business logic
-  
-- **Designers:**	Creates mockups, maintains design system, ensures UX quality
-  
-- **QA/Testers:**	Writes test cases, performs testing, reports bugs
-  
-- **DevOps Engineers:**	Manages deployment, CI/CD pipeline, server infrastructure
-  
-- **Product Owner:**	Defines requirements, prioritizes features, and represents stakeholders
-  
-- **Scrum Master:**	Facilitates agile processes, removes blockers, organizes meetings
+| Role | Responsibilities |
+| ---- | ---- |
+| Project Manager | Oversees timeline, coordinates team, manages deliverables |
+| Frontend Developers | Implements UI components, ensures responsive design |
+| Backend Developers | Builds APIs, manages the database, implements business logic |
+| Designers | Creates mockups, maintains design system, ensures UX quality |
+| QA/Testers | Writes test cases, performs testing, reports bugs |
+| DevOps Engineers | Manages deployment, CI/CD pipeline, server infrastructure |
+| Product Owner | Defines requirements, prioritizes features, and represents stakeholders |
+| Scrum Master | Facilitates agile processes, removes blockers, organizes meetings |
 
 
 # UI Component Patterns:
