@@ -1,11 +1,8 @@
-# airbnb-clone-project
-AirBnB Clone Project
+#Project Overview:
 
-# <ins>Project Overview:</ins>
+This project is a full-stack clone of the popular accommodation booking platform Airbnb. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
-
-### <ins>Project Goals:</ins>
+#Project Goals:
 
 - Learn to implement responsive UI/UX designs
 - Understand how to structure a complex web application
@@ -13,14 +10,14 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Develop skills in component-based frontend architecture
 - Learn best practices for web application development.
 
-### <ins>Tech Stack:</ins>
+#Tech Stack:
 
 - Frontend: HTML, CSS, JavaScript (React or similar framework)
 - Version Control: Git and GitHub
 - Design Tools: Figma for UI/UX design
 
 
-### <ins>UI/UX Design Planning</ins>
+#UI/UX Design Planning
 
 <ins>**Design Goals:**</ins>
 
@@ -29,26 +26,23 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Ensure fast loading times
 - Prioritize mobile responsiveness
 
-**Key Features:**
+<ins>**Key Features:**</ins>
 
 - Property search and filtering
 - Detailed property viewing
 - Secure checkout process
 - User authentication
 
-**Primary Pages:**
+<ins>**Primary Pages:**</ins>
 
-- **Property Listing View:**	Grid display of available properties with filters
+- <ins>**Property Listing View:**</ins>	Grid display of available properties with filters
 
-- **Listing Detailed View:** Complete property details with images and booking form
+- <ins>**Listing Detailed View:**</ins> Complete property details with images and booking form
 
-- **Simple Checkout View:**	Streamlined payment and booking confirmation
+- <ins>**Simple Checkout View:**</ins>	Streamlined payment and booking confirmation
 
-**Importance of a User-Friendly Design in a Booking System:**
 
-A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Straightforward navigation, intuitive interfaces, and responsive design are critical for success.
-
-**Color Styles:**
+<ins>**Color Styles:**</ins>
 
 - **Primary:** #FF5A5F
 - **Secondary:** #008489
@@ -56,7 +50,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - **Text:** #222222
 - **Secondary Text:** #717171
 
-**Typography:**
+<ins>**Typography:**</ins>
 
 - **Primary Font:** Circular, Medium (500), 16px
   
@@ -64,22 +58,28 @@ A well-designed booking system reduces friction in the user journey, increases c
   
 - **Secondary Text:** Circular, Book (400), 14px
 
-**Importance of Identifying Design Properties of a Mockup Design:**
 
-- **Clarifies design intent:** Ensures all stakeholders understand the visual and functional goals.
+#Importance of a User-Friendly Design in a Booking System:
+
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Straightforward navigation, intuitive interfaces, and responsive design are critical for success.
+
+
+#Importance of Identifying Design Properties of a Mockup Design:
+
+- <ins>**Clarifies design intent:**</ins> Ensures all stakeholders understand the visual and functional goals.
   
-- **Improves user experience (UX):** Helps evaluate usability, accessibility, and consistency.
+- <ins>**Improves user experience (UX):**</ins> Helps evaluate usability, accessibility, and consistency.
   
-- **Enables targeted feedback:** Makes it easier to review, iterate, and refine the design.
+- <ins>**Enables targeted feedback:**</ins> Makes it easier to review, iterate, and refine the design.
   
-- **Supports developer handoff:** Provides precise specs like fonts, colors, and layout for implementation.
+- <ins>**Supports developer handoff:**</ins> Provides precise specs like fonts, colors, and layout for implementation.
   
 - Maintains brand consistency by reinforcing visual identity across all platforms and products.
   
-- **Facilitates testing and validation:** Useful for user testing, A/B testing, and accessibility checks.
+- <ins>**Facilitates testing and validation:**</ins> Useful for user testing, A/B testing, and accessibility checks.
 
 
-**Project Roles and Responsibilities**
+#Project Roles and Responsibilities:
 
 - **Project Manager:**	Oversees timeline, coordinates team, manages deliverables
   
@@ -98,9 +98,9 @@ A well-designed booking system reduces friction in the user journey, increases c
 - **Scrum Master:**	Facilitates agile processes, removes blockers, organizes meetings
 
 
-**UI Component Patterns**
+#UI Component Patterns:
 
-**1. Navbar:**
+1. <ins>**Navbar:**</ins>
 
 - Logo
   
@@ -111,7 +111,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Responsive menu
 
 
-**2. Property Card:**
+2. <ins>**Property Card:**</ins>
 
 - Property image
   
@@ -122,7 +122,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Responsive layout
 
 
-**3. Footer:**
+3. <ins>**Footer:**</ins>
 
 - Site links
   
